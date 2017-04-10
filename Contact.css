@@ -1,0 +1,28 @@
+@font-face{
+	font-family:"perso";
+	src:url('police/Sansita-Black.ttf');
+}
+@font-face{
+	font-family:"perso";
+	font-style:italic;
+	src:url('police/Sansita-BlackItalic.ttf');
+}
+@font-face{
+	font-family:"perso";
+	font-weight:bold;
+	src:url('police/Sansita-Bold.ttf');
+}
+
+
+
+
+html
+{
+text-align:center;
+background-image:url("fond.png");
+background-repeat: no-repeat; 
+font-family:monospace;
+font-family:perso,Arial;
+
+}
+
